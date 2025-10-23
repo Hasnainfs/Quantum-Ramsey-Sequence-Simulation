@@ -2,7 +2,9 @@
 
 ---
 
-### 🧪 **Project Summary: Quantum Ramsey Sequence Simulation**
+### 🧪 **Project Summary: Quantum Ramsey Sequence Simulation** ### ▶️ **Run on Google Colab**
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Hasnainfs/Quantum-Ramsey-Sequence-Simulation/blob/main/Quantum_Ramsey_Simulation.ipynb)
 
 In this project, a **single-qubit Ramsey interferometry sequence** was implemented using **Qiskit and the Aer simulator** to estimate the effect of a magnetic field on the qubit. The quantum circuit consisted of:
 
@@ -27,6 +29,4 @@ This experiment validates the use of **quantum circuits for precise phase estima
 
 ---
 
-### ▶️ **Run on Google Colab**
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Hasnainfs/Quantum-Ramsey-Sequence-Simulation/blob/main/Quantum_Ramsey_Simulation.ipynb)
